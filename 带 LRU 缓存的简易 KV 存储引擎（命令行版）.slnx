@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="带 LRU 缓存的简易 KV 存储引擎（命令行版）/带 LRU 缓存的简易 KV 存储引擎（命令行版）.vcxproj" Id="b71bc4ff-cb4a-4cbb-b0bb-a0ce5d5474fd" />
+</Solution>
